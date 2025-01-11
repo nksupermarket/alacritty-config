@@ -1,0 +1,47 @@
+general.import = ["/home/alex/.config/alacritty/themes/alacritty-theme/themes/everforest_dark.toml"]
+
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[cursor]
+blink_interval = 750
+
+[cursor.style]
+blinking = "On"
+
+[env]
+WINIT_X11_SCALE_FACTOR = "1.0"
+
+[font]
+size = 11
+
+[font.bold]
+family = "RobotoMono Nerd Font Mono"
+style = "Bold"
+
+[font.bold_italic]
+family = "RobotoMono Nerd Font Mono"
+style = "Bold Italic"
+
+[font.italic]
+family = "RobotoMono Nerd Font Mono"
+style = "Italic"
+
+[font.normal]
+family = "RobotoMono Nerd Font Mono"
+style = "Regular"
+
+[font.offset]
+x = 0
+y = 5
+
+[scrolling]
+multiplier = 5
+
+[window]
+dynamic_title = true
+opacity = 1
+
+[window.padding]
+x = 0
+y = 0
